@@ -1,0 +1,8 @@
+{
+  "name": "ZegAppDemo",
+  "description": "Zalaegerszeg App Demo",
+  "main": "main.js",
+  "dependencies": {
+    "tabris": "1.1.0"
+  }
+}
