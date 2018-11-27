@@ -4,5 +4,8 @@
   "main": "main.js",
   "dependencies": {
     "tabris": "1.1.0"
+  },
+  "devDependencies": {
+    "tabris-cli": "^2.6.2"
   }
 }
