@@ -3,9 +3,9 @@
   "description": "Zalaegerszeg App Demo",
   "main": "main.js",
   "license": "ISC",
-  "repository", "https://github.com/zalaszam-github/zegapp0",
+  "repository": "https://github.com/zalaszam-github/zegapp0",
   "dependencies": {
-    "tabris": "1.1.0"
+    "tabris": "^1.11.0"
   },
   "devDependencies": {
     "tabris-cli": "^2.6.2"
